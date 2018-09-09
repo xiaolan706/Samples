@@ -1,0 +1,30 @@
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\xiaol\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\C# 2017\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\C# 2017\source\repos\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
